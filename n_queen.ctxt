@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=n_queen
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ queen()
+comment3.params=i\ j
+comment3.target=boolean\ is_empty(int,\ int)
+comment4.params=i\ j
+comment4.target=boolean\ straight_check(int,\ int)
+comment5.params=i\ j
+comment5.target=boolean\ cross_check(int,\ int)
+comment6.params=k
+comment6.target=boolean\ is_possible(int)
+numComments=7

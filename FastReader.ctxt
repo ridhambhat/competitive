@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=FastReader
+comment1.params=
+comment1.target=FastReader()
+comment10.params=
+comment10.target=void\ close()
+comment2.params=file_name
+comment2.target=FastReader(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ readLine()
+comment4.params=size
+comment4.target=java.lang.String\ readLine(int)
+comment5.params=
+comment5.target=int\ nextInt()
+comment6.params=
+comment6.target=long\ nextLong()
+comment7.params=
+comment7.target=double\ nextDouble()
+comment8.params=
+comment8.target=void\ fillBuffer()
+comment9.params=
+comment9.target=byte\ read()
+numComments=11

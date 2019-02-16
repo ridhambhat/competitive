@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=rect_sq
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=n
+comment2.target=void\ square_start(int)
+comment3.params=i\ j\ n
+comment3.target=boolean\ square_check(int,\ int,\ int)
+numComments=4
